@@ -22,8 +22,20 @@
 
 <p align="justify">Sinta-se à vontade para explorar e contribuir com este projeto, utilizando-o como ponto de partida para expandir suas habilidades em Go e aprofundar seu entendimento sobre desenvolvimento de software.</p>
 
-<h3>Link do Projeto: Clique Aqui</h3>
+<p>Link do Projeto: <a href="https://github.com/alexandresantosal91/conversor-go/blob/main/src/main.go">Clique Aqui</a></p>
 
-<h4>Fontes:</h4>
+<h2>Execute o arquivo:</h2>
+
+<p>Agora você pode executar o arquivo gerado usando o terminal: </p>
+
+<p>No Linux ou macOS:</p>
+
+<p>./main</p>
+
+<p>No Windows:</p>
+
+<p>main.exe</p>
+
+<h2>Fontes:</h2>
 
 <p><a href="http://goporexemplo.golangbr.org">Go por Exemplo</a></p>
